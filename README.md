@@ -1,2 +1,2 @@
 # hammer-editor
-ask me[/
+<special>ask me[/</special>
