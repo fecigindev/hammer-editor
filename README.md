@@ -1,2 +1,2 @@
-# hammer-editor
-ask me if you need something
+# Hammer-editor
+Ask me if you need something
