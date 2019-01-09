@@ -1,2 +1,2 @@
 # hammer-editor
-<h3>ask me[/</h3>
+ask me if you need something
